@@ -1,0 +1,7 @@
+{
+  "name": "pl-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
